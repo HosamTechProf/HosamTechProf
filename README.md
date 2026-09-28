@@ -1,67 +1,55 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,48:0EA5E9,100:22C55E&text=Hosam%20Abo%20Elyazid&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Product-Minded%20Builder&descAlignY=56&animation=fadeIn" alt="Hosam Abo Elyazid — Full-Stack Developer and Product-Minded Builder" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=true&text=Hosam+Abo+Elyazid&textBg=false&fontSize=50&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Hosam Abo Elyazid — Full-Stack Developer and Product-Minded Builder" />
+
+  <p><strong>Turning complex workflows into clear, useful products.</strong></p>
+  <p>Design-minded engineering across web, mobile, and desktop.</p>
+
+  <a href="https://hosam.site"><img src="https://img.shields.io/badge/Explore-Portfolio-0EA5E9?style=for-the-badge&labelColor=0F172A" alt="Explore Hosam's portfolio" /></a>
+  <a href="https://github.com/HosamTechProf?tab=repositories"><img src="https://img.shields.io/badge/View-Projects-22C55E?style=for-the-badge&labelColor=0F172A" alt="View Hosam's repositories" /></a>
 </div>
 
-<p align="center">
-  I turn complex workflows into thoughtful web, mobile, and desktop products.
-  <br />
-  Clean interfaces. Dependable systems. Useful software.
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Based_in-Egypt-0F172A?style=flat-square&labelColor=0F172A&color=0EA5E9" alt="Based in Egypt" />
-  <img src="https://img.shields.io/badge/Focus-Product_Engineering-0F172A?style=flat-square&labelColor=0F172A&color=22C55E" alt="Focus: Product Engineering" />
-  <img src="https://img.shields.io/badge/Building-Web_%E2%80%A2_Mobile_%E2%80%A2_Desktop-0F172A?style=flat-square&labelColor=0F172A&color=8B5CF6" alt="Building web, mobile, and desktop products" />
-</p>
+## About me
 
-## Hello, I’m Hosam Abo Elyazid
+I’m a full-stack developer and product-minded designer based in Egypt. I take ideas from early workflow sketches to working software—shaping the interface, building the frontend, designing the API, and connecting the pieces into a coherent product.
 
-I’m a full-stack developer and product-minded designer based in Egypt. I enjoy taking an idea from a rough workflow to a polished product—shaping the experience, building the frontend, designing the API, and making every layer work together.
+My recent work spans learning and assessment platforms, business tools, mobile applications, and AI-assisted experiences. I care about clear interactions, maintainable code, and practical outcomes.
 
-My recent work centers on learning platforms, assessment systems, business tools, and AI-assisted product experiences. I care about software that feels clear to use, stays maintainable, and solves a real problem.
+## What I work with
 
-- **Product engineering:** translating real-world operations into focused digital workflows
-- **Frontend craft:** responsive, accessible interfaces with strong visual hierarchy
-- **Backend systems:** practical APIs, business logic, and reliable integrations
-- **Cross-platform delivery:** web, Flutter mobile apps, and Electron desktop tools
-
-## Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+| Area | Tools and approach |
+| :-- | :-- |
+| **Interfaces** | Angular, TypeScript, JavaScript, responsive UI |
+| **Backends** | Laravel, PHP, APIs and business logic |
+| **Beyond the browser** | Flutter, Dart, Electron, FFmpeg |
+| **Across the product** | UX thinking, implementation, iteration |
 
 ## Selected work
 
-| Project | What it does | Built with |
-|---|---|---|
-| [**Maestro Cut**](https://github.com/HosamTechProf/maestro-cut) | Open-source desktop video editor with an AI copilot and a reactive drag-and-drop timeline | Angular · Electron · FFmpeg |
-| [**Business Card Platform**](https://github.com/HosamTechProf/business-card-frontend) | Full-stack digital business card experience with a dedicated [Laravel backend](https://github.com/HosamTechProf/business-card-backend) | TypeScript · Laravel · PHP |
-| [**Teacher Assistant Suite**](https://github.com/HosamTechProf/TeacherAssistantTeacherApp) | Connected teacher and [student](https://github.com/HosamTechProf/TeacherAssistantStudentApp) mobile apps powered by a [PHP backend](https://github.com/HosamTechProf/TeacherAssistantBackend2) | Flutter · Dart · PHP |
-| [**Recycling Platform**](https://github.com/HosamTechProf/recyclingFrontend) | Mobile client with a separate [backend service](https://github.com/HosamTechProf/recyclingBackend) | Java · PHP |
+### [Maestro Cut](https://github.com/HosamTechProf/maestro-cut)
+An open-source desktop video editor with an AI copilot and a reactive drag-and-drop timeline. Built with **Angular, Electron, and FFmpeg**.
+
+### [Business Card Platform](https://github.com/HosamTechProf/business-card-frontend)
+A digital business card experience with a dedicated [Laravel backend](https://github.com/HosamTechProf/business-card-backend). Built with **TypeScript, Laravel, and PHP**.
+
+### [Teacher Assistant Suite](https://github.com/HosamTechProf/TeacherAssistantTeacherApp)
+Connected apps for [teachers](https://github.com/HosamTechProf/TeacherAssistantTeacherApp) and [students](https://github.com/HosamTechProf/TeacherAssistantStudentApp), supported by a [PHP backend](https://github.com/HosamTechProf/TeacherAssistantBackend2). Built with **Flutter and Dart**.
+
+### [Recycling Platform](https://github.com/HosamTechProf/recyclingFrontend)
+A mobile client backed by a separate [PHP service](https://github.com/HosamTechProf/recyclingBackend). Built with **Java and PHP**.
 
 ## GitHub snapshot
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HosamTechProf&show_icons=true&hide_border=true&bg_color=00000000&title_color=0EA5E9&text_color=64748B&icon_color=22C55E" alt="Hosam Abo Elyazid's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosamTechProf&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=0EA5E9&text_color=64748B" alt="Hosam Abo Elyazid's most-used languages" />
-</p>
+<div align="center">
+  <a href="https://github.com/HosamTechProf?tab=followers"><img src="https://img.shields.io/github/followers/HosamTechProf?label=Followers&style=for-the-badge&logo=github&labelColor=0F172A&color=0EA5E9" alt="GitHub followers" /></a>
+  <a href="https://github.com/HosamTechProf?tab=stars"><img src="https://img.shields.io/github/stars/HosamTechProf?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&labelColor=0F172A&color=22C55E" alt="GitHub stars" /></a>
+  <img src="https://img.shields.io/badge/GitHub%20Journey-2017%20%E2%86%92%20Present-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="Building on GitHub since 2017" />
+</div>
 
-> Good software is not just code that works—it is a clear experience, a maintainable system, and a useful outcome.
-
-## Let’s build something useful
-
-If you’re working on a product where strong UX meets solid engineering, I’d be glad to connect. The easiest way to start is through [a discussion on this profile repository](https://github.com/HosamTechProf/HosamTechProf/issues).
+---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,48:0EA5E9,100:22C55E" alt="Decorative footer" />
+  <p><strong>Have a product idea or a tricky workflow to simplify?</strong></p>
+  <p>Take a look at <a href="https://hosam.site">my portfolio</a> or explore <a href="https://github.com/HosamTechProf?tab=repositories">more of my work</a>.</p>
 </div>
